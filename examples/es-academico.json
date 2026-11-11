@@ -1,0 +1,19 @@
+{
+  "name": "Académico APA 7 (ES Colombia)",
+  "genre": "documento académico, tesis, documentación técnica",
+  "register": [
+    "Tercera persona e impersonal; pasiva refleja admitida.",
+    "No tutear al lector; en guías, infinitivo o impersonal.",
+    "Conservar el hedging científico y las fórmulas del género académico.",
+    "Anglicismos técnicos del glosario permitidos; no traducir literales de código.",
+    "Citas y referencias APA 7 intactas; nunca inventar fuentes."
+  ],
+  "mechanics": {
+    "quotes": "curly",
+    "headings": "sentence",
+    "emDash": "sparing",
+    "latinAbbrev": "never",
+    "serialComma": false,
+    "spellNumbersUpTo": 9
+  }
+}

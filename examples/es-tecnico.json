@@ -1,0 +1,19 @@
+{
+  "name": "Técnico y documentación (ES)",
+  "genre": "README, guía de operación, documentación de API",
+  "register": [
+    "Instrucciones directas, en segunda persona o impersonal.",
+    "Anglicismos técnicos permitidos: endpoint, deploy, backend, frontend, token.",
+    "Código, rutas, nombres de archivos y variables intactos.",
+    "Sin promesas comerciales ni adjetivos sin criterio medible.",
+    "Cada afirmación técnica debe poder verificarse con el código o una prueba."
+  ],
+  "mechanics": {
+    "quotes": "curly",
+    "headings": "sentence",
+    "emDash": "sparing",
+    "latinAbbrev": "never",
+    "serialComma": false,
+    "spellNumbersUpTo": 9
+  }
+}

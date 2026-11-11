@@ -1,0 +1,30 @@
+{
+  "name": "avoid-ai-writing-es",
+  "version": "0.1.0",
+  "description": "Skill para auditar y reescribir prosa en español y quitar patrones de escritura de IA, con foco en APA 7 y LaTeX.",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Remyyyyyyl/avoid-ai-writing-es.git"
+  },
+  "keywords": [
+    "agent-skills",
+    "ai-writing",
+    "spanish",
+    "espanol",
+    "writing",
+    "editing",
+    "apa7",
+    "latex"
+  ],
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-skill.js",
+    "detect": "node detector/cli-es.js",
+    "check-style": "node scripts/check-style.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

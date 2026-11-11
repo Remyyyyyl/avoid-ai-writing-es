@@ -1,0 +1,19 @@
+{
+  "name": "Blog y divulgación (ES)",
+  "genre": "entrada de blog, artículo de divulgación, newsletter",
+  "register": [
+    "Voz personal y directa; primera persona cuando el autor la use.",
+    "Ritmo variable y frases cortas permitidas si el contenido lo pide.",
+    "Sin muletillas de relleno ni grandilocuencia.",
+    "Enlaces, nombres propios y citas intactos.",
+    "No inventar experiencias, opiniones ni datos para sonar más humano."
+  ],
+  "mechanics": {
+    "quotes": "curly",
+    "headings": "sentence",
+    "emDash": "deliberate",
+    "latinAbbrev": "any",
+    "serialComma": false,
+    "spellNumbersUpTo": 9
+  }
+}
